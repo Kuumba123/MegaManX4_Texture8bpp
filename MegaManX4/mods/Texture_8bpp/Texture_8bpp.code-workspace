@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpu.h": "c",
+			"layer.h": "c",
+			"layerinfo.h": "c",
+			"common.h": "c",
+			"types.h": "c",
+			"stdbool.h": "c"
+		}
+	}
+}
