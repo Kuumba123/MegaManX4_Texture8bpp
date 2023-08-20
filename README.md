@@ -1,0 +1,1 @@
+# MegaManX4_Texture8bpp
