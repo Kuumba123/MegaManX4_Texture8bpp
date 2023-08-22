@@ -99,7 +99,7 @@ void NewDrawLayer(int layer)
                 u_char cord = tileInfoP[tileId * 4 + 2];
                 u_char tpage = tileInfoP[tileId * 4 + 3];
 
-                if(tpage == 0xFF) //just in case someone imports a X5 Level
+                if(tpage == 0xFF || tpage > 0xB) //just in case someone imports a X5 Level
                 {
                     continue;
                 }
