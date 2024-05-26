@@ -1,0 +1,5 @@
+american, exe, 0x80026648, 0x0, src/drawbackground.c
+american, exe, 0x80025da0, 0x0, src/setuppages.c
+american, exe, 0x800f1658, 0x0, src/clut.c
+//So that the Editor Knows
+american, exe, 0x800260e4, 0x0, src/editor.c
